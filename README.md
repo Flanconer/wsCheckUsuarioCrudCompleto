@@ -4,7 +4,7 @@
 # Taller Avanzado de Desarrollo de Software
 
 ## Actividad:
-# Práctica (acceso + seguridad + rptUsuarios)
+# Práctica CRUD Usuarios (completo)
 
 
 ## Estudiantes:
@@ -14,7 +14,7 @@
  # M.T.I. Luis Alejandro Santana Valadez
 
 ## Fecha:
-# 28/04/25
+# 05/05/25
 
 # Conclusion
- La entrega incluye tanto el acceso al repositorio como la evidencia visual que respalda el cumplimiento de cada uno de los requisitos planteados, garantizando así la funcionalidad y presentación adecuada del módulo de usuarios.
+ ## La actividad permitió comprender y aplicar los conceptos clave para el desarrollo de una API REST que gestiona usuarios mediante una base de datos MySQL. Se definieron modelos de datos, se configuraron las librerías necesarias y se estableció la conexión a través de web.config. En las últimas actualizaciones, se implementaron y ajustaron los métodos en clsUsuario.cs para realizar operaciones CRUD más eficientes, y se mejoró el controlador UsuarioController.cs para asegurar una correcta exposición de los servicios, facilitando la comunicación entre el cliente y la base de datos bajo una arquitectura RESTful bien estructurada.
